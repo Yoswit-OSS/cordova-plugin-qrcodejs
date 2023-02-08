@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-qrcodejs",
+  "name": "@yoswit/cordova-plugin-qrcodejs",
   "version": "1.0.0",
   "description": "Cordova plugin for generating QR code",
   "main": "index.js",
